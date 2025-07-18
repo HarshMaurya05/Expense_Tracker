@@ -15,3 +15,13 @@ Flutter Expense Tracker
 ~ The UI is clean and responsive, with a dark theme to make it look modern and user-friendly.
 
 # Expense_Tracker
+
+
+---
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/HarshMaurya05/Expense_Tracker.git
+   cd Expense_Tracker
